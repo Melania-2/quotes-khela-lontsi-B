@@ -1,0 +1,3 @@
+C:/EFREIII/S2/quotes-khela-lontsi-B/cmake-build-debug/CMakeFiles/quotes_khela_lontsi_B.dir
+C:/EFREIII/S2/quotes-khela-lontsi-B/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/EFREIII/S2/quotes-khela-lontsi-B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
